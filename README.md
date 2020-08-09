@@ -1,3 +1,5 @@
+# ***Proffy Web :pager:*** 
+
 <h1 align=center>
   <img src="assets/img/Banner.PNG" alt="Proffy Banner"/>
 </h1>
@@ -23,6 +25,10 @@ Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2
 </h3>
 
 <br />
+<h2 align=center>
+  <i>Telas Web </i> :pager:
+</h2>
+
 <div align=center>
     <img src="/assets/video/pages.gif" alt="Pages Web" />
 </div>
