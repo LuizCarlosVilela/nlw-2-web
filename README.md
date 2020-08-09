@@ -32,6 +32,16 @@ Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2
     <img src="/assets/video/pages.gif" alt="Pages Web" />
 </div>
 
+<br />
+
+<h2 align=center>
+  <i>Responsividade Web </i> :pager:
+</h2>
+
+<div align=center>
+    <img src="/assets/video/responsividade.gif" alt="Teste de responsividade Web" />
+</div>
+
 <br /><br />
 
 ## ***:rocket: OBJETIVO***
