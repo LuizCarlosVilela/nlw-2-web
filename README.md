@@ -24,7 +24,6 @@ Proffy é um projeto **Open Source** desenvolvido na semana **Next Level Week (2
 
 </h3>
 
-<br />
 <h2 align=center>
   <i>Telas Web </i> :pager:
 </h2>
