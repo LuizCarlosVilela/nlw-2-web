@@ -233,14 +233,6 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [commitlint]: https://github.com/conventional-changelog/commitlint
 
-[express]: https://expressjs.com/
-
-[cors]: https://expressjs.com/en/resources/middleware/cors.html
-
-[knex]: http://knexjs.org/
-
-[sqlite3]: https://github.com/mapbox/node-sqlite3
-
 [tsnode]: https://github.com/TypeStrong/ts-node
 
 [feather_icons]: https://feathericons.com/
@@ -257,19 +249,9 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [dotenv]: https://github.com/motdotla/dotenv
 
-[expo]: https://expo.io/
-
 [expo_google_fonts]: https://github.com/expo/google-fonts
 
 [react_navigation]: https://reactnavigation.org/
-
-[expo_constants]: https://docs.expo.io/versions/latest/sdk/constants/
-
-[react_native_svg]: https://github.com/react-native-community/react-native-svg
-
-[expo_location]: https://docs.expo.io/versions/latest/sdk/location/
-
-[expo_mail_composer]: https://docs.expo.io/versions/latest/sdk/mail-composer/
 
 [font_archivo]: https://fonts.google.com/specimen/Archivo
 
